@@ -1,0 +1,63 @@
+h1 {
+    width: 50%;
+
+
+}
+
+span {
+    color: orange;
+}
+
+#us {
+    font-size: larger;
+}
+
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 75%;
+
+}
+
+#link button {
+    background-color: blue;
+    border: 3 cm;
+    text-decoration-color: brown;
+    border: 7px salmon;
+}
+
+.second {
+    display: flex;
+    margin: 80px 20px 200px 20px;
+}
+
+.third {
+    width: 50%;
+}
+
+.third img {
+    width: 70%;
+}
+
+#first {
+    display: flex;
+    background-image: url(McDonalds-logo.png);
+
+    margin-bottom: 15%;
+}
+
+.five {
+    border-left: 7px solid red;
+    width: 40%;
+    margin: 20px 50px 20px 50px;
+    box-shadow: 10px 10px 10px 10px gray;
+    padding: 5px 5px 5px 15px;
+}
